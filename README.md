@@ -6,4 +6,5 @@
 - 🤔 I’m looking for help with [Sumé LMS](https://github.com/sumelms)
 - 💬 Ask me about technology, biology, dinosaurs and the immensity of the universe... 
 
-![hey](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+![hey](https://media.giphy.com/media/1dNlZgTmLSNAqCILyz/giphy.gif)
