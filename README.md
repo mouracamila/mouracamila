@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning React, React Native and NodeJs.
 - 👯 I’m looking to collaborate on Open Source.
 - 🤔 I’m looking for help with [Sumé LMS](https://github.com/sumelms)
-- 💬 Ask me about twhat is the answer to life, the universe and everything more.
+- 💬 Ask me about life, the universe and everything more.
 
 
