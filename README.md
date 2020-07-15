@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World 👋
 
 - 🔭 I’m currently working on personal projects, and I'm looking for new challenges.
 - 🌱 I’m currently learning React, React Native and NodeJs.
