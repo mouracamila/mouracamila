@@ -1,5 +1,7 @@
 ### < Hello World />
 
+<h3 align="center">< Hello World /></h3>
+
 <h2 align="center">Hi 👋, I'm Camila</h2>
 
 <p align="left">
@@ -64,7 +66,7 @@
   </a> 
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mouracamila&show_icons=true&locale=en&layout=compact" alt="mouracamila" /></p>
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mouracamila&show_icons=true&locale=en" alt="mouracamila" /></p>
