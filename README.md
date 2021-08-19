@@ -1,7 +1,5 @@
 ### < Hello World />
 
-<h3 align="center">< Hello World /></h3>
-
 <h2 align="center">Hi 👋, I'm Camila</h2>
 
 <p align="left">
