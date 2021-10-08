@@ -2,12 +2,6 @@
 
 <h2 align="center">< Hello World /></h2>
 
-<p align="left">
-  <h4 > I’m looking to collaborate on Open Source.</h4>
-  <h4 > I'm looking for new challenges.</h4>
-  <h4 > Ask me about life, the universe and everything more.</h4>
- </p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center"> 
