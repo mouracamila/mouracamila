@@ -2,9 +2,7 @@
 
 <h2 align="center">< Hello World /></h2>
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="center"> 
+<p align="center" text-align="center"> 
   <a href="https://getbootstrap.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a> 
@@ -50,7 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mouracamila&show_icons=true&locale=en&layout=compact" alt="mouracamila" height="190px" />
 &nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=mouracamila&show_icons=true&locale=en" alt="mouracamila" height="190px" />
-<p>  
+&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouracamila&" alt="mouracamila" height="190px"/>
 </p>
 
