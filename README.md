@@ -47,13 +47,11 @@
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mouracamila&show_icons=true&locale=en&layout=compact" alt="mouracamila" />
-</p>
-<p>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=mouracamila&show_icons=true&locale=en" alt="mouracamila" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouracamila&" alt="mouracamila" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mouracamila&show_icons=true&locale=en&layout=compact" alt="mouracamila" height="190px" />
+&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=mouracamila&show_icons=true&locale=en" alt="mouracamila" height="190px" />
+<p>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouracamila&" alt="mouracamila" height="190px"/>
 </p>
 
 
