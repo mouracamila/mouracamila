@@ -4,10 +4,10 @@
   <h1>
     < Hello World />
   </h1>
-  <h3 
-    style="margin-bottom:20px">Main Languages and Tools:
+  <h3>
+    Main Languages and Tools:
   </h3>
-  <div style="margin-bottom:20px">
+  <div>
     <a href="https://getbootstrap.com" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
       </a> 
@@ -51,10 +51,11 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
       </a>
   </div>
+      &nbsp;
   <div>
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=mouracamila&theme=dracula&show_icons=true&locale=en&layout=compact" 
-      alt="mouracamila"  
+      alt="mouracamila"
       style="width:100%; height:190px"
     />
     &nbsp;
