@@ -4,9 +4,6 @@
   <h1>
     < Hello World />
   </h1>
-  <h3>
-    Main Languages and Tools:
-  </h3>
   <div>
       <a href="https://www.figma.com/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
