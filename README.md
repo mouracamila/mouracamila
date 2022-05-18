@@ -27,18 +27,6 @@
       &nbsp;
   <div>
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=mouracamila&theme=github_dark&show_icons=true&locale=en&layout=compact" 
-      alt="mouracamila"  
-      style="width:100%; height:190px"
-    />
-    &nbsp;
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=mouracamila&theme=github_dark&show_icons=true&locale=en" 
-      alt="mouracamila" 
-      style="width:100%; height:190px" 
-    />
-    &nbsp;
-    <img 
       src="https://github-readme-streak-stats.herokuapp.com/?user=mouracamila&theme=github-dark&hide_border=true&fire=fddf68"
       alt="mouracamila" 
       style="width:100%; height:190px"
