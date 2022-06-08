@@ -43,18 +43,5 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouracamila&show_icons=true&include_all_commits=true&count_private=true&layout=compact"
     />
   </div>
-  <br>
-  <h3>Are you looking for amazing OpenSource projects? Take a look below</h3>
-  <a href="https://github.com/themesberg/flowbite-react">
-    <img
-      height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=themesberg&repo=flowbite-react">
-    </img>
-  </a>
-  <a href="https://github.com/seu-usuario/sumelms">
-    <img
-      height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=sumelms&repo=frontend">
-    </img>
-  </a>
+ 
 </div>
